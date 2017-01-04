@@ -1,8 +1,8 @@
-# Copyright (c) 2014-2016, racaljk.
+# Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2016-12-29
+# Last updated: 2017-01-02
 
-# https://laod.cn/hosts/2016-google-hosts.html
+# https://laod.cn/hosts/2017-google-hosts.html
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -174,6 +174,7 @@
 157.240.0.17	api.facebook.com
 157.240.0.17	secure.facebook.com
 157.240.0.17	zh-cn.facebook.com
+157.240.0.17	l.facebook.com
 157.240.0.17	login.facebook.com
 157.240.0.17	attachments.facebook.com
 157.240.0.17	touch.facebook.com
@@ -554,6 +555,7 @@
 61.91.161.217	www.googlecode.com
 61.91.161.217	fuchsia.googlesource.com
 61.91.161.217	googlesource.com
+61.91.161.217	boringssl.googlesource.com
 61.91.161.217	gerrit.googlesource.com
 61.91.161.217	chromium.googlesource.com
 61.91.161.217	kernel.googlesource.com
